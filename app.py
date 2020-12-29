@@ -5,8 +5,8 @@ import os
 import sys
 from pixivpy3 import *
 
-username = "1240188105@qq.com"
-password = "kgs196983"
+username = "null"
+password = "null"
 
 aapi = AppPixivAPI()
 aapi.login(username, password)
